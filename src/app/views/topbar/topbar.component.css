@@ -1,0 +1,12 @@
+
+.grey-text.hoverable:hover
+{
+  background-color:rgb(10, 85, 22);
+  border-radius: 100px;
+}
+
+.white-text.hoverable:hover
+{
+ background-color:rgba(27, 20, 20, 0.931);
+ border-radius: 100px;
+}
